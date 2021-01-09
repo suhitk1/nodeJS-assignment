@@ -3,6 +3,10 @@ To run this project, install it locally using npm:
 ```
 $ npm install
 ```
+And then run:
+```
+$ npm start
+```
 # Endpoints
 Run the following links on your browser
 ```
