@@ -1,5 +1,4 @@
 const express = require("express");
-const fetch = require("node-fetch");
 const ExpressCache = require("express-cache-middleware");
 const cacheManager = require("cache-manager");
 const unirest = require("unirest");
